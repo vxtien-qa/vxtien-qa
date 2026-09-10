@@ -3,7 +3,7 @@
 <br><br><br><br><br>
 
 ```text
-✅  QA Analyst · Manual & Automation
+✅  QA Analyst · Manual & Automation · Web · Mobile · API
 🧪  Selenium
 🐛  Test design · Regression · API testing · Bug reporting
 🌱  Currently exploring: Playwright
