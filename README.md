@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=160&section=header&text=Bruce%20Vu&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Senior%20QA&descAlignY=56&descSize=18" alt="Bruce Vu" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0079c1,50:00a0e9,100:66ccf2&height=150&section=header&text=Bruce%20Vu&fontColor=ffffff&fontSize=42&fontAlignY=34&desc=Senior%20QA&descAlignY=54&descSize=18" alt="Bruce Vu" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3400&pause=900&color=58A6FF&center=true&vCenter=true&width=460&height=40&lines=Senior+QA+Analyst;Viet+Nam" alt="Senior QA Analyst, Viet Nam" />
+  <img src="https://raw.githubusercontent.com/vxtien-qa/vxtien-qa/main/doraemon.svg" width="104" alt="Doraemon" />
 </p>
 
 ### About
@@ -20,6 +20,4 @@ Cac muc con thieu, gui thong tin la toi chen vao:
 - Domain / loai san pham ban kiem thu
 - Stack: framework automation, API, DB, CI
 - Chung chi (ISTQB, ...)
-- Anh anime ban muon dung lam banner: dat file vao repo nay roi tro src ve duong dan do,
-  hotlink anh ngoai rat de chet link.
 -->
