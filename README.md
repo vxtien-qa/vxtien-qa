@@ -13,13 +13,13 @@ Senior QA Analyst based in Viet Nam.
 ### Contact
 
 - GitHub: [@vxtien-qa](https://github.com/vxtien-qa)
+- Email: [vxtien2000@gmail.com](mailto:vxtien2000@gmail.com)
 
 <!--
 Cac muc con thieu, gui thong tin la toi chen vao:
 - Domain / loai san pham ban kiem thu
 - Stack: framework automation, API, DB, CI
 - Chung chi (ISTQB, ...)
-- LinkedIn
 - Anh anime ban muon dung lam banner: dat file vao repo nay roi tro src ve duong dan do,
   hotlink anh ngoai rat de chet link.
 -->
