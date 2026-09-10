@@ -5,10 +5,8 @@
 ```text
 ✅  QA Analyst · Manual & Automation
 🌿  Web · Mobile · API
-🧪  Selenium
+🧪  Selenium · Playwright
 🐛  Test design · Regression · API testing · Bug reporting
-🌱  Currently exploring: Playwright
-🍃  Domain: Compliance workforce
 ```
 
 <br clear="all" />
